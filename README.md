@@ -35,7 +35,7 @@ pip3 install -r requirements.txt
 
 ### Cách 1: Chạy trực tiếp file Python
 ```bash
-cd /Users/dailuu/Desktop/CT2026/tuya2/yeelight
+cd py_control_yeelight
 python3 yeelight_gui.py
 ```
 

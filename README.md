@@ -44,7 +44,7 @@ python3 yeelight_gui.py
 - **Double-click** vào file `run_yeelight.command`
 - Nếu báo lỗi permission, chạy lệnh:
 ```bash
-chmod +x /Users/dailuu/Desktop/CT2026/tuya2/yeelight/run_yeelight.command
+chmod +x /Users/[user]/py_control_yeelight/run_yeelight.command
 ```
 
 ---

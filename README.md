@@ -42,6 +42,7 @@ python3 yeelight_gui.py
 ### Cách 2: Sử dụng shortcut (Khuyên dùng)
 - Mở Finder, điều hướng đến thư mục `yeelight`
 - **Double-click** vào file `run_yeelight.command`
+- chỉnh [user] ở đường dẫn bên dưới
 - Nếu báo lỗi permission, chạy lệnh:
 ```bash
 chmod +x /Users/[user]/py_control_yeelight/run_yeelight.command
